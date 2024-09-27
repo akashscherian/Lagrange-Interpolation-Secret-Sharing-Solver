@@ -3,10 +3,10 @@
 This project implements a simplified version of Shamir's Secret Sharing algorithm, where the goal is to find the constant term `c` of an unknown polynomial of degree `m`. Using Lagrange interpolation, the program reads encoded polynomial roots from a JSON file, decodes the values based on their base, and computes the constant term.
 
 🔧 Features:
-- Polynomial Interpolation**: Solves for the constant term `c` of the polynomial using Lagrange interpolation.
-- Base Conversion**: Decodes values encoded in different bases (e.g., binary, hexadecimal, etc.).
-- JSON Input**: Reads polynomial roots and values from a JSON file.
-- Multiple Test Cases**: Supports multiple test cases simultaneously.
+- Polynomial Interpolation: Solves for the constant term `c` of the polynomial using Lagrange interpolation.
+- Base Conversion: Decodes values encoded in different bases (e.g., binary, hexadecimal, etc.).
+- JSON Input: Reads polynomial roots and values from a JSON file.
+- Multiple Test Cases: Supports multiple test cases simultaneously.
 
  🗂️ Project Structure
  
@@ -17,7 +17,7 @@ This project implements a simplified version of Shamir's Secret Sharing algorith
 
 🚀 Getting Started
 
-#### 1. Prerequisites
+1. Prerequisites
 Ensure you have Node.js installed. You can check if Node.js is installed by running:
 
 bash
@@ -114,7 +114,7 @@ There are no external dependencies for this project. The built-in `fs` module of
    }
    
 
-2. **Running the Code**:
+2. Running the Code:
    To run the program and compute the constant term for each test case, simply execute the `lagrange.js` script:
 
    bash
