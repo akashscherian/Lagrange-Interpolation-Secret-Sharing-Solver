@@ -124,7 +124,7 @@ There are no external dependencies for this project. The built-in `fs` module of
    Expected Output:
    plaintext
    Constant Term (c) for Test Case 1: -3
-   Constant Term (c) for Test Case 2: 479186286674166
+   Constant Term (c) for Test Case 2: 28735619723864
    
 
 3. How It Works:
