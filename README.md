@@ -10,9 +10,9 @@ This project implements a simplified version of Shamir's Secret Sharing algorith
 
  🗂️ Project Structure
  
-├── lagrange.js          # Main JavaScript file containing the logic
-├── testcases.json       # JSON file containing multiple test cases
-└── README.md            # Project documentation
+├── lagrange.js           Main JavaScript file containing the logic
+├── testcases.json        JSON file containing multiple test cases
+└── README.md             Project documentation
 
 
 🚀 Getting Started
